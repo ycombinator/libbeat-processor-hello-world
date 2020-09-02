@@ -8,4 +8,7 @@ replace (
 	github.com/fsnotify/fsevents => github.com/elastic/fsevents v0.0.0-20181029231046-e1d381a4d270
 )
 
-require github.com/elastic/beats/v7 v7.9.0
+require (
+	github.com/elastic/beats/v7 v7.9.0
+	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+)
