@@ -1,4 +1,4 @@
-module github.com/ycombinator/fb-plugin-hw
+module github.com/ycombinator/libbeat-processor-hello-world
 
 go 1.14
 

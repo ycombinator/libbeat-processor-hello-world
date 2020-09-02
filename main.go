@@ -4,7 +4,7 @@ import (
 	"github.com/elastic/beats/v7/libbeat/plugin"
 	"github.com/elastic/beats/v7/libbeat/processors"
 
-	"github.com/ycombinator/fb-plugin-hw/internal"
+	"github.com/ycombinator/libbeat-processor-hello-world/internal"
 )
 
 var Bundle = plugin.Bundle(
